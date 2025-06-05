@@ -5,3 +5,6 @@
 
 # BLOG
 [Medium](https://medium.com/p/957d1b826aa6/edit)
+
+# DEPLOYMENT
+[https://pp-cassava-kasetai.streamlit.app](https://pp-cassava-kasetai.streamlit.app/)
