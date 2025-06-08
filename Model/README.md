@@ -5,6 +5,6 @@
 ### จากนั้น activate ใช้งาน venv
     .\venv\Scripts\activate
 ### จากนั้นติดตั้ง package
-    pip install glob2 pandas plotly timm torch streamlit opencv-python
+    pip install glob2 pandas plotly timm torch streamlit opencv-python geopy streamlit_folium
 ### และรันใน venv เพื่อเปิดเว็บ
     python -m streamlit run app.py
