@@ -1,4 +1,5 @@
 # AIB5_Cassava_KasetAI
+![Alt text](poster.png "poster")
 เครื่องมือ AI ตรวจโรคมันสำปะหลัง
 
 
