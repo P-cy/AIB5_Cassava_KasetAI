@@ -1,8 +1,6 @@
 # AIB5_Cassava_KasetAI
-![Alt text](poster.png "poster")
 เครื่องมือ AI ตรวจโรคมันสำปะหลัง
-
-
+![Alt text](poster.png "poster")
 
 # BLOG
 [Medium](https://medium.com/p/957d1b826aa6/edit)
