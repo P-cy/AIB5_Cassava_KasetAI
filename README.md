@@ -1,5 +1,5 @@
 # AIB5_Cassava_KasetAI
-เครื่องมือ AI ตรวจโรคมันสำปะหลัง
+เครื่องมือ AI ตรวจโรคมันสำปะหลังรวมกับข้อมูลสภาพอากาศในท้องถิ่น เพื่อประเมินความเสี่ยงของโรคด้วย Image Classification และ Deep Learning
 ![Alt text](poster.png "poster")
 
 # BLOG
